@@ -1,12 +1,8 @@
 # Release Notes
 
----
+### May 17, 2019 (v0.1.0)
 
-## May 17, 2019 
+#### Released:
 
-v0.1.0
-
-### Released:
-
-- **Beta version**
+- Beta version
 
