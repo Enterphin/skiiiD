@@ -4,5 +4,4 @@
 
 #### Released:
 
-- Beta version
-
+- Beta versions
