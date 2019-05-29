@@ -1,14 +1,5 @@
 # Release Notes
 
-### May 29, 2019 (v0.1.2)
-
-#### Released:
-
-- Fixed the bug
-  - Tooltip didn't disappear sometimes.
-- Added the library
-  - Gyroscope Module (MPU6050)
-
 ### May 17, 2019 (v0.1.1)
 
 #### Released:
