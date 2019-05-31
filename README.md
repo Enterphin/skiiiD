@@ -1,5 +1,14 @@
 # Release Notes
 
+### May 31, 2019 (v0.1.3)
+
+#### Released:
+
+- Fixed the bug
+  - Project was empty when new project without board select.
+- Added the library
+  - Servo motor
+
 ### May 29, 2019 (v0.1.2)
 
 #### Released:
