@@ -1,5 +1,13 @@
 # Release Notes
 
+### June 05, 2019 (v0.1.4)
+
+#### Released:
+
+- Fixed the bug
+  - Segment module didn't display the zero number.
+- Modified the typo and UI.
+
 ### May 31, 2019 (v0.1.3)
 
 #### Released:
@@ -29,4 +37,4 @@
 
 #### Released:
 
-- Beta versions
+- Beta version
