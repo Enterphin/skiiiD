@@ -1,5 +1,14 @@
 # Release Notes
 
+### August 05, 2019 (v0.1.5)
+
+#### Released:
+
+- Supported the mac version.
+- Modified the process for serial port.
+- Moved the cursor into loop function when new project.
+- Added the board change function.
+
 ### June 05, 2019 (v0.1.4)
 
 #### Released:
