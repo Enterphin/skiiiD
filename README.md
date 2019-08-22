@@ -1,5 +1,11 @@
 # Release Notes
 
+### August 22, 2019 (v0.1.6)
+
+#### Released:
+
+- Modified the process of pin recommendation and setting.
+
 ### August 05, 2019 (v0.1.5)
 
 #### Released:
