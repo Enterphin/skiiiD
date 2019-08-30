@@ -1,5 +1,11 @@
 # Release Notes
 
+### August 30, 2019 (v0.1.7)
+
+#### Released:
+
+- Supported the new board(Arduino Nano).
+
 ### August 22, 2019 (v0.1.6)
 
 #### Released:
