@@ -1,5 +1,12 @@
 # Release Notes
 
+### September 25, 2019 (v0.1.8)
+
+#### Released:
+
+- Supported the multi-language for library's tooltip(English, Korean).
+- Added the sub function that display parameters to auto-complete.
+
 ### August 30, 2019 (v0.1.7)
 
 #### Released:
