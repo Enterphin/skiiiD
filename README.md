@@ -1,5 +1,12 @@
 # Release Notes
 
+### October 07, 2019 (v0.1.9)
+
+#### Released:
+
+- Added the Neopixel module's library for Maker Faire Seoul 2019.
+- Improved the UX about auto-complete.
+
 ### September 25, 2019 (v0.1.8)
 
 #### Released:
