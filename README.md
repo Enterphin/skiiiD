@@ -1,5 +1,11 @@
 # Release Notes
 
+### October 10, 2019 (v0.1.10)
+
+#### Released:
+
+- Fixed the bug that skiiiD was not working right after auto-update.
+
 ### October 07, 2019 (v0.1.9)
 
 #### Released:
