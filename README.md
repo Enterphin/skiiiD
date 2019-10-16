@@ -1,5 +1,11 @@
 # Release Notes
 
+### October 16, 2019 (v0.1.11)
+
+#### Released:
+
+- Stabilized the process about resource download.
+
 ### October 10, 2019 (v0.1.10)
 
 #### Released:
