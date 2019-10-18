@@ -1,5 +1,11 @@
 # Release Notes
 
+### October 18, 2019 (v0.1.12)
+
+#### Released:
+
+- Improved the process of auto-update.
+
 ### October 16, 2019 (v0.1.11)
 
 #### Released:
