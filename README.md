@@ -1,5 +1,10 @@
 # Release Notes
 
+### October 23, 2019 (v0.1.13)
+
+#### Released:
+- Fixed the bug that pin recommend function works wrong.
+
 ### October 18, 2019 (v0.1.12)
 
 #### Released:
