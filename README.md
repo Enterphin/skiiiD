@@ -1,5 +1,11 @@
 # Release Notes
 
+### October 31, 2019 (v0.1.14)
+
+#### Released:
+- Supported more development boards.
+- Modified the process for installing and checking resources.
+
 ### October 23, 2019 (v0.1.13)
 
 #### Released:
