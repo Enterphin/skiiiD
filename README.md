@@ -1,5 +1,10 @@
 # Release Notes
 
+### December 02, 2019 (v0.1.16)
+
+#### Released:
+- Modified the build process.
+
 ### December 02, 2019 (v0.1.15)
 
 #### Released:
