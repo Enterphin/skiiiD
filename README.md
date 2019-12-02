@@ -1,5 +1,11 @@
 # Release Notes
 
+### December 02, 2019 (v0.1.15)
+
+#### Released:
+- Fixed the bug that 'NONE' pins didn't converted to 'NULL'.
+- Updated the build resources.
+
 ### October 31, 2019 (v0.1.14)
 
 #### Released:
