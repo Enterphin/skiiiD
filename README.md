@@ -1,5 +1,12 @@
 # Release Notes
 
+### February 28, 2020 (v0.1.17)
+
+#### Released:
+- Modified the pin mapping process.
+- Added the process that download packages.
+- Added component's libraries.
+
 ### December 02, 2019 (v0.1.16)
 
 #### Released:
