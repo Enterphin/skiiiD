@@ -1,5 +1,12 @@
 # Release Notes
 
+### March 09, 2020 (v0.1.18)
+
+#### Released:
+- Modified the resources's unzip process.
+- Added the library
+  - Infrared Thermometer (GY-906)
+
 ### February 28, 2020 (v0.1.17)
 
 #### Released:
