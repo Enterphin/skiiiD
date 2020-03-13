@@ -1,5 +1,12 @@
 # Release Notes
 
+### March 13, 2020 (v0.1.19)
+
+#### Released:
+- Fixed the bug
+  - Functions using PWM doesn't working.
+- Improved the UX about component's pin selection.
+
 ### March 09, 2020 (v0.1.18)
 
 #### Released:
